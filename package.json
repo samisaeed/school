@@ -38,7 +38,7 @@
     "@angular/platform-browser-dynamic": "^9.0.0-rc.0",
     "@angular/router": "^9.0.0-rc.0",
     "@coreui/angular": "^2.7.0",
-    "bootstrap": "4.1.1",
+    "bootstrap": "4.3.1",
     "core-js": "^2.6.10",
     "ngx-bootstrap": "^5.2.0",
     "rxjs": "^6.5.3",
